@@ -85,10 +85,10 @@ Main
 Sample Input 1
 If below sample values are set for customer object
 
-customerId	customerName	contactNo	paymentDone
-56	Anjali	9123456789	700
-89	Sujoy	8123456790	360
-22	Manju	7654389129	1200
+customerId	customerName	contactNo	  paymentDone
+56	        Anjali	      9123456789	700
+89	        Sujoy	        8123456790	360
+22	        Manju	        7654389129	1200
 
 Sample Output 1
 Total payment done is 2260 Rs.
