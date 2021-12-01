@@ -1,5 +1,8 @@
-#Problem Title: Create Student table 
-#Student Schema :(View in Readme file)
+# Problem Title: Create Student table 
+# Student Schema :(View in Readme file)
+Author - Saurabh Kumar
+@Copyright 2021
+
 
 #create deparment table
 Create Table Department(
