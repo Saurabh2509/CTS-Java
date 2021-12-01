@@ -1,4 +1,4 @@
-Author - Saurabh Kumar
+Author ~ Saurabh Kumar
 
 @Copyright 2021
 
