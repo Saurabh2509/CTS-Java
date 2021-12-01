@@ -2,6 +2,7 @@
 # Student Schema :(View in Readme file)
 Author - Saurabh Kumar
 @Copyright 2021
+[Github](https://github.com/Saurabh2509)
 
 
 #create deparment table
