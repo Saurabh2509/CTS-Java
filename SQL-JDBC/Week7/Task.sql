@@ -1,3 +1,6 @@
+Author : Saurabh Kumar
+@Copyright 2021
+
 # Problem Title: Department name based on block number
 # Problem Statement :Write a query to display the names of the departments in block number 3 in ascending order
 
